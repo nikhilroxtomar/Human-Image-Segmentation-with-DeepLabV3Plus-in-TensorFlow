@@ -1,4 +1,4 @@
-# Files
+# files
 It contains the following:
 1. data.csv
 2. model.h5
