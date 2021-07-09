@@ -1,4 +1,4 @@
-# Human-Image-Segmentation-with-DeepLabV3-in-TensorFlow
+# Human Image Segmentation with DeepLabV3+ in TensorFlow
 DeepLabV3+ with squeeze and excitation network for human image segmentation in TensorFlow 2.5.0 <br/> <br/>
 Watch the YouTube video for better explaination: [https://youtu.be/4LhUpCWBzT8](https://youtu.be/4LhUpCWBzT8)
 
