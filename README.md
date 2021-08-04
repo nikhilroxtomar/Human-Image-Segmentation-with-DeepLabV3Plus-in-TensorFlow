@@ -22,7 +22,7 @@ These qualitative results are on the validation/test set. The figure consists of
 ![](results/girl-model-blonde-slav-157666_0.png)
 ![](results/model-fashion-girl-female-39678_0.png)
 
-These qualitative results are on random images taken from [wallpapercave.com](wallpapercave.com). The figure consists of a) Input Image b) Masked Image.
+These qualitative results are on random images taken from [https://wallpapercave.com](wallpapercave.com). The figure consists of a) Input Image b) Masked Image.
 ![](test_images/mask/wp5815325.png)
 :--------------------------------------------------------------------------------------:
 ![](test_images/mask/wp6244146.png)
