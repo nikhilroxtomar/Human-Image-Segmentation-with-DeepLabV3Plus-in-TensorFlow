@@ -85,7 +85,7 @@ if __name__ == "__main__":
     valid_path = os.path.join(dataset_path, "test")
 
     train_x, train_y = load_data(train_path)
-    train_x, valid_y = shuffling(train_x, train_y)
+    train_x, train_y = shuffling(train_x, train_y)
     valid_x, valid_y = load_data(valid_path)
 
     print(f"Train: {len(train_x)} - {len(train_y)}")
