@@ -86,7 +86,7 @@ def augment_data(images, masks, save_path, augment=True):
             tmp_mask_name = f"{name}_{index}.png"
 
             image_path = os.path.join(save_path, "image", tmp_image_name)
-            mask_path = os.path.join(save_path, "mask", tmp_image_name)
+            mask_path = os.path.join(save_path, "mask", tmp_mask_name)
 
             cv2.imwrite(image_path, i)
             cv2.imwrite(mask_path, m)
